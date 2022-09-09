@@ -1,0 +1,84 @@
+baseURL = "https://example.com"
+title = "Nikoli Sama"
+author = "Jana"
+
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  mainSections = ['blog']
+
+  googleFonts = true
+
+  [params.logo]
+    main = "img/logo/logo-head.png"
+    alt = "Skupina Nikoli sama"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-24"
+
+  [params.site]
+    name = "Nikoli sama"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fontawesome = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Skupina za mame in podjetnice. Srečujemo se na podpornih krogih. Podjetnice se spodbujamo v Mastermid skupini."
+    meta_og_title = "Nikoli Sama"
+    meta_og_type = "website"
+    meta_og_url = "https://nikolisama.si"
+    meta_og_image = "https://raw.githubusercontent.com/xx.png"
+    meta_og_description = "Si želiš družbe ženski, ki te razumejo in podpirajo?"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Podporna skupina"
+    name = "Podporna skupina"
+    url = "/podporna-skupina-za-mame/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Mastermind skupina"
+    name = "Mastermind skupina"
+    url = "/mastermind-skupina/"
+    weight = 1    
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Novice"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "O nas"
+    name = "O nas"
+    url = "/o-nas/"
+    weight = 3
+
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Domov"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Nikoli Sama Facebook skupina"
+    url = "https://www.facebook.com/groups/467001988199005"
+    pre = "<i class='icon-facebook text-2xl'></i>"
+      weight = 2

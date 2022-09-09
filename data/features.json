@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Podporna skupina za mame",
+    "description": "Želiš družbo mamic, ki razumejo o čem govoriš? Vsebina podpornih krogov je zaupna. Med seboj si pomagamo, se poslušamo in spodbujamo.",
+    "icon": "img/icon/support.png",
+    "link": "/podporna-skupina-za-mame/"
+  },
+  {
+    "title": "Mastermind skupina",
+    "description": "Mastermind skupina je namenjena podjetnicam. Med seboj si pomagamo in se spodbujamo.",
+    "icon": "img/icon/mastermind.png",
+    "link": "/mastermind-skupina/"
+  },
+  {
+    "title": "Skupina Nikoli Sama",
+    "description": "Pridruži se nam v FB skupini, kjer se dogovarjamo za srečanja",
+    "icon": "img/icon/NikoliSama.png",
+    "link": "https://www.facebook.com/groups/467001988199005"
+  }
+]
