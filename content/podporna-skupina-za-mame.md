@@ -1,9 +1,9 @@
 +++
 author = "Jana Bergant"
 title = "Podporna skupina za mame"
-date = "2019-03-05"
+date = "2022-09-09"
 image = "img/slide/podporne-skupine.jpg"
-description = "Guide to emoji usage in Hugo"
+description = "Podporna skupina za mame"
 tags = [
     "mama",
     "podporna skupina",
