@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-8. oktobra si vabljena na podporno skupino v hišico nad Podpeškim jezerom pri Lukovici.
+8. oktobra si vabljena na podporno skupino v hišico nad Gradiškim jezerom pri Lukovici.
 
 Dobimo se ob 9:15 na parkirišču in gremo skupaj proti hišici. Tema srečanja še ni znana :)
 
