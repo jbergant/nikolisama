@@ -1,6 +1,6 @@
 +++
 author = "Jana Bergant"
-title = "Podporna skupina s kostanjevim piknikom in supanjem"
+title = "Podporna skupina s kostanjevim piknikom in supanjem - 8. okrober (sobota)"
 image = "img/novice/gradisko-jezero.jpg"
 date = "2022-09-14"
 description = "V semptembru si vabljena na online podporno skupino za mamice"
