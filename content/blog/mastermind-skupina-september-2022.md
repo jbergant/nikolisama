@@ -1,7 +1,7 @@
 ---
 author: Jana Bergant
 title: Mastermind skupina se začne septembra 2022
-date: 2022-09-09
+date: 2022-09-01
 image: "img/novice/mastermind-za-podjetnice-september-2022.jpg"
 description: Mastermind skupina Nikoli sama začne delovati v začetku septembra 2022
 ---
