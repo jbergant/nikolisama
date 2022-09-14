@@ -61,8 +61,8 @@ enableRobotsTXT = true
     meta_description = "Skupina za mame in podjetnice. Srečujemo se na podpornih krogih. Podjetnice se spodbujamo v Mastermid skupini."
     meta_og_title = "Nikoli Sama"
     meta_og_type = "website"
-    meta_og_url = "https://nikolisama.si"
-    meta_og_image = "https://nikolisama.si/img/slide/nikoli-sama.jpeg"
+    meta_og_url = "https://www.nikolisama.si"
+    meta_og_image = "https://www.nikolisama.si/img/slide/nikoli-sama.jpeg"
     meta_og_description = "Si želiš družbe ženski, ki te razumejo in podpirajo?"
 
 
