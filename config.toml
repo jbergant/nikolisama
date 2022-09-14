@@ -62,7 +62,7 @@ enableRobotsTXT = true
     meta_og_title = "Nikoli Sama"
     meta_og_type = "website"
     meta_og_url = "https://nikolisama.si"
-    meta_og_image = "https://raw.githubusercontent.com/xx.png"
+    meta_og_image = "https://nikolisama.si/img/slide/nikoli-sama.jpeg"
     meta_og_description = "Si želiš družbe ženski, ki te razumejo in podpirajo?"
 
 
