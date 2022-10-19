@@ -8,8 +8,6 @@ enableRobotsTXT = true
 
 
 
-# If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "UA-12345678-1"
 
 
 [privacy]
