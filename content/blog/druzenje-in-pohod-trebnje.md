@@ -4,6 +4,7 @@ title = "Druženje in pohod v Trebnjah"
 image = "img/novice/pohodTrebnje.png"
 date = "2022-10-13"
 description = "Druženje v okolici Trebnjega 22.10 ob 11uri."
+keywords = ""
 tags = [
     "pogovor",
     "druženje",

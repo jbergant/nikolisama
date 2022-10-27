@@ -4,6 +4,7 @@ title = "Ana Maus Art - umetnica, učiteljica poslikave lesa, mama, poznavalka d
 image = "img/novice/ana-maus-art.jpg"
 date = "2022-09-27"
 description = "V semptembru si vabljena na online podporno skupino za mamice"
+keywords = ""
 tags = [
     "pogovor",
     "umetnost",

@@ -4,6 +4,7 @@ title = "Online podporna skupina - 24. September (sobota)"
 image = "img/novice/online-podporna-skupina-setember-2022.jpg"
 date = "2022-09-10"
 description = "V semptembru si vabljena na online podporno skupino za mamice"
+keywords = ""
 tags = [
     "podporna skupina",
     "mama",
