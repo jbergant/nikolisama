@@ -103,3 +103,9 @@ enableRobotsTXT = true
     url = "https://www.facebook.com/groups/467001988199005"
     pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 2
+
+  [[menu.footer]]
+    name = "Nikoli Sama Youtube pogovori"
+    url = "https://www.youtube.com/channel/UCTQGieKopKqxmgfry1KV47Q"
+    pre = "<i class='icon-youtube text-2xl'></i>"
+      weight = 3      
