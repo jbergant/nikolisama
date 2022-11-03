@@ -19,7 +19,7 @@ Te dajejo znaki izgorelosti? Držiš 5 vogalov v hiši, zraven pa še rineš če
 
 Ko enkrat telo pride do izgorelosti, poti nazaj ni več. To se je zgodilo Alenki. Rehabilitacija po izgorelosti pa je dolga.
 
-Alenka je mama samohranilkaV V času nastanka izgorelosti je bil njen sin še v predšolskem obdobju.
+Alenka je mama samohranilka. V času nastanka izgorelosti je bil njen sin še v predšolskem obdobju.
 Pomoči ni imela.
 
 V pogovoru nam Alenka pove, kako se je soočila z izgorelostjo, kako je bila primorana vzeti dolgotrajno bolniško.
