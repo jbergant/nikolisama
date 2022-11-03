@@ -1,9 +1,9 @@
 +++
 author = "Jana Bergant"
-title = "Ana Maus Art - umetnica, učiteljica poslikave lesa, mama, poznavalka divje hrane"
-image = "img/novice/ana-maus-art.jpg"
-date = "2022-09-27"
-description = "V semptembru si vabljena na online podporno skupino za mamice"
+title = "Finančna svoboda z Majo Križan"
+image = "img/novice/financna-svoboda-maja-krizan.png"
+date = "2022-10-02"
+description = "Finančno svobodo si vsak predstavlja po svoje. Maja se ukvarja s financami, zato nam bo tudi dala nasvete kako ravnati z denarjem, kam vložiti denar. Dala bo tudi nasvete kako o denarju lahko poučimo otroke, in najstnike."
 keywords = "finančna svoboda, denar, kam vložiti denar"
 tags = [
     "pogovor",
@@ -13,7 +13,7 @@ tags = [
 
 Finančna svoboda z Majo Križan
 
-Maja se ukvarja s financami, zato nam bo tudi dala nsvete kako ravnati z denarjem. Dala bo tudi nasvete kako o denarju lahko poučimo otroke, in najstnike. Maja tudi svetuje kam vložiti denar in kako se lotiti varnega investiranja.
+Maja se ukvarja s financami, zato nam bo tudi dala nasvete kako ravnati z denarjem. Dala bo tudi nasvete kako o denarju lahko poučimo otroke, in najstnike. Maja tudi svetuje kam vložiti denar in kako se lotiti varnega investiranja.
 
 Finančno svobodo si vsak predstavlja po svoje. Nekomu je to miljon evrov na računu, drugemu je to denar za potovanja, tretjemu pa to, da vsak mesec lahko plača vse račune. 
 
@@ -33,5 +33,4 @@ Oglej si pogovor:
 Majina spletna stran za [varno investiranje](https://investirajvarno.si/)
 
 [Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
-
 

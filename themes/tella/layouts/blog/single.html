@@ -15,7 +15,7 @@
         <h1 class="title text-5xl font-bold mb-3">{{.Title}}</h1>
         <section class="mb-4 text-lg">
             <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
-                {{ .Date.Format "02. 02. 2006" }} </h4>
+                {{ .Date.Format "02. Jan 2006" }} </h4>
             {{ if .Params.author }}
             <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>{{.Params.author}}
             </h4>

@@ -1,8 +1,8 @@
 +++
 author = "Jana Bergant"
 title = "Iz izgorelosti s pomočjo starodavnih znanj: pogovor z Alenko Krstič"
-image = "img/novice/ana-maus-art.jpg"
-date = "2022-09-27"
+image = "img/novice/izgorelost-alenka-krstic.png"
+date = "2022-11-03"
 description = "Te dajejo znaki izgorelosti? Izgorelost - trenutek ko telo reče NE! Rehabilitacija po izgorelosti pa je dolga."
 keywords = "izgorelost, izgorelost znaki, izgorelost bolniška, izgorelost simptomi, joga obraza, hormoni"
 tags = [
@@ -33,7 +33,6 @@ Pot iz izgorelosti je dolga.
 Alenka je našla moč in znanje za ozdravitev s pomočjo starodavnih znanj. 
 
 Poslušaj najin pogovor!
-
 
 {{< youtube gfB7ls_ewnM >}}
 
