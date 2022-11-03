@@ -4,6 +4,7 @@ title = "Mastermind skupina za podjetnice"
 date = "2022-09-09"
 image = "img/slide/mastermind.jpg"
 description = "Želiš podporo, accounability, mislno naravnanost pri razvoju svojega posla? Pridruži se mastermind skupini za podjetnice"
+keywords = "mastermind, mindset, podjetništvo, podpora, ženske"
 tags = [
     "mastermind",
     "mindset",

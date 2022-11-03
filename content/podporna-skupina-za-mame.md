@@ -3,7 +3,8 @@ author = "Jana Bergant"
 title = "Podporna skupina za mame"
 date = "2022-09-09"
 image = "img/slide/podporne-skupine.jpg"
-description = "Podporna skupina za mame"
+description = "Si mamica? Samska ali poročena z občutkom, da si za vse na svetu sama. Se počutiš preobremenjeno? Osamljeno? Nisi sama. Pridruži se skupini žensk, ki redno dobiva v živo. Pridi!"
+keywords = "podporna skupina, osamljenost, kako premagati osamljenost, osamljenost po ločitvi, osamljenost v zakonu, druženje"
 tags = [
     "mama",
     "podporna skupina",
@@ -12,6 +13,10 @@ tags = [
 +++
 
 Si mamica? Samska ali poročena z občutkom, da si za vse na svetu sama. Se počutiš preobremenjeno? Osamljeno? Neprespano?
+
+Čeprav te osrečuje biti mama, se lahko počutiš preobremenjeno in osamljeno. Lahko si sama ali v zakonu. Že dolgo hrepeniš po iskrenem pogovoru in iskrenih odnosih.
+
+Nisi sama. Nas je več, zato smo se povezale.
 
 Na podpornih srečanjih se dobimo mame. Vsakič govorimo o temah, ki nam pomagajo se dvignit, nas razbremenit. Če ne drugega se poskušamo slišat, si dati podporo.
 
