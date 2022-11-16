@@ -6,7 +6,8 @@ enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
 
-
+[markup.goldmark.renderer]
+  unsafe = true
 
 
 
