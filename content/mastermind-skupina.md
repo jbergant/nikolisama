@@ -22,7 +22,7 @@ Porazdelimo se v skupine in delamo na doseganju ciljev, soočanju z izzivi.
 
 Skupina je omejena na 6 podjetnic.
 
-Več lahko izveš v [Facebook skupini Nikoli Sama](https://www.facebook.com/groups/467001988199005).
+Več lahko izveš v <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Facebook skupini Nikoli Sama</a>.
 
 
 

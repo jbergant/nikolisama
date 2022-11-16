@@ -15,7 +15,7 @@ tags = [
 Online podporna skupina bo 24. Septembra ob 9:30 dopoldan preko Zoom-a.
 <!--more-->
 
-Zoom link sporočim preko [Facebook skupine Nikoli Sama](https://www.facebook.com/groups/467001988199005). V skupini bo pravočasno objavljen tudi dogodek. Prosila bi, da svojo udeležbo potrdiš s prijavo na online dogodek.
+Zoom link sporočim preko <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">skupine Nikoli Sama za ženske</a>. V skupini bo pravočasno objavljen tudi dogodek. Prosila bi, da svojo udeležbo potrdiš s prijavo na online dogodek.
 
 
 Tokratna tema bo: Moč v meni.

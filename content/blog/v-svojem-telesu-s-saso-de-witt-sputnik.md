@@ -31,6 +31,6 @@ Pridi in se nama pridruži!
 
 [Sasa de Witt Skutnik - telesna terapija](https://www.facebook.com/sasa.dewitt)
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
+<a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Skupina Nikoli Sama za ženske</a>
 
 

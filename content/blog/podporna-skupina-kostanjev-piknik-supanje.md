@@ -24,7 +24,7 @@ Piknik in supanje sta odvisna od vremena.
 
 Podporna skupina pa v vsakem vremenu bo.
 
-Kakšen teden pred srečanjem, bo v [Facebook skupini](https://www.facebook.com/groups/467001988199005) objavljen dogodek, kjer se lahko prijaviš.
+Kakšen teden pred srečanjem, bo v <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">skupiniß Nikoli Sama za ženske</a> objavljen dogodek, kjer se lahko prijaviš.
 
 
 Komaj čakam, da se spet vidimo tudi v živo.

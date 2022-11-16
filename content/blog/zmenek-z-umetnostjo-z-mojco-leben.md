@@ -26,7 +26,7 @@ Oglej si pogovor:
 
 [Mojca Leben NLP Coach](https://www.facebook.com/mojca.leben.5)
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
+<a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Skupina Nikoli Sama za ženske</a>
 
 
 

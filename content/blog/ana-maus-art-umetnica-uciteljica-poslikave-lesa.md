@@ -32,4 +32,5 @@ Oglej si pogovor:
 
 [Ana Maust Art na Facebook](https://www.facebook.com/anamaus.art)
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
+<a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Skupina Nikoli Sama za ženske</a>
+

@@ -23,7 +23,7 @@ Vabi nas na svojo domačijo, kjer bomo zakupile ogenj. Vsaka lahko prinese kakš
 
 Šle bomo tudi na lažji pohod 2h, potem pa bo še 1h druženja na domačiji Vesel.
 
-Katera je za? Prijaviš se v Facebook skupini [Nikoli Sama](https://www.facebook.com/groups/467001988199005).
+Katera je za? Prijaviš se v Facebook skupini <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Nikoli Sama</a>.
 
 Naslov: Goljek 5 8210 Trebnje.
 

@@ -15,7 +15,7 @@ tags = [
 
 Izgorelost - trenutek ko telo reče NE! Dovolj je bilo. 
 
-[Ogled pogovora o izgorelosti](https://www.youtube.com/watch?v=gfB7ls_ewnM)
+<a href="https://www.youtube.com/watch?v=gfB7ls_ewnM" class="pogovoralenkakrstic youtube">Ogled pogovora o izgorelosti</a>
 
 Te dajejo znaki izgorelosti? Držiš 5 vogalov v hiši, zraven pa še rineš čez vse svoje meje?
 
@@ -34,9 +34,11 @@ Pot iz izgorelosti je dolga.
 
 Alenka je našla moč in znanje za ozdravitev s pomočjo starodavnih znanj. 
 
-Sledi povzetek [pogovora o izgorelosti](https://www.youtube.com/watch?v=gfB7ls_ewnM).
 
-## Alenka, bi mi za začetek povedala malco o sebi?
+Sledi povzetek <a href="https://www.youtube.com/watch?v=gfB7ls_ewnM" class="pogovoralenkakrstic youtube">pogovora o izgorelosti</a>.
+
+
+## Alenka, bi mi za začetek povedala več o sebi?
 Alenka je 17 let delala v turistični agenciji in še dalj v turizmi. Duša pa jo že od nekdaj vodi v alternativne metode kot so obrazna joga, kundalini joga, tradicionalna kitajska medicina in arjuveda.
 Ima sina starega 7 let in je samska mama že 6 let.
 
@@ -101,12 +103,10 @@ Všeč mi je, da ni opravljanja, metanja polen pod noge. Všeč mi je, da si že
 
 
 Vse to in še marsikaj sva se pogovarjali z Alenko Krstič. Pogovor si lahko ogledaš na yutube kanalu:
-[Iz izgorelosti s pomočjo starodavnih znanj: pogovor z Alenko Krstič](https://www.youtube.com/watch?v=gfB7ls_ewnM)
-
+<a href="https://www.youtube.com/watch?v=gfB7ls_ewnM" class="pogovoralenkakrstic youtube">Iz izgorelosti s pomočjo starodavnih znanj: pogovor z Alenko Krstič</a>
 
 
 Alenko in obrazno jogo najdeš na [njeni strani za obrazno jogo](https://www.facebook.com/profile.php?id=100063538210772): 
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
 
 <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Skupina Nikoli Sama za ženske</a>

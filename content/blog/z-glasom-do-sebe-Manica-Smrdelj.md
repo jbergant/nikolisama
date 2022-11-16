@@ -30,6 +30,6 @@ Pridi in naju poslušaj!
 Manico najdeš na spletni strani [Studia Cantica](https://www.studiocantica.com)
 ter na [FB strani](https://www.facebook.com/studiocantica)
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005)
+<a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Skupina Nikoli Sama za ženske</a>
 
 

@@ -25,7 +25,7 @@ Včasih je lažje, če veš da nisi sama, da nisi edina in da se da!
 
 Podporne skupine skupine Nikoli sama potekajo online vsako 4. soboto v mesecu ob 9:30 dopoldan.
 
-Pred srečanjem dobiš link znotraj [Facebook skupine Nikoli Sama](https://www.facebook.com/groups/467001988199005).
+Pred srečanjem dobiš link znotraj <a href="https://www.facebook.com/groups/467001988199005" class="nikolisama">Facebook skupine Nikoli Sama</a>.
 
 Pred srečanjem je obljavljen tudi dogodek, kjer se lahko prijaviš.
 
