@@ -107,5 +107,5 @@ Vse to in še marsikaj sva se pogovarjali z Alenko Krstič. Pogovor si lahko ogl
 
 Alenko in obrazno jogo najdeš na [njeni strani za obrazno jogo](https://www.facebook.com/profile.php?id=100063538210772): 
 
-[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005){: .samaskupina}
+[Skupina Nikoli Sama za ženske](https://www.facebook.com/groups/467001988199005){.samaskupina}
 
