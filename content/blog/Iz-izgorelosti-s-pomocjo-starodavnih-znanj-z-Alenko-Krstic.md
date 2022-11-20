@@ -4,12 +4,16 @@ title = "Iz izgorelosti s pomočjo starodavnih znanj: pogovor z Alenko Krstič"
 image = "img/novice/izgorelost-alenka-krstic.png"
 date = "2022-11-03"
 description = "Te dajejo znaki izgorelosti? Izgorelost - trenutek ko telo reče NE! Rehabilitacija po izgorelosti pa je dolga."
-keywords = "izgorelost, izgorelost znaki, izgorelost bolniška, izgorelost simptomi, joga obraza, hormoni"
+keywords = "izgorelost, zdravljenje izgorelosti, izgorelost znaki, rehabilitacija po izgorelosti, izgorelost bolniška, izgorelost simptomi, joga obraza, hormoni"
 tags = [
-    "pogovor",
     "izgorelost",
-    "joga",
+    "zdravljenje izgorelosti",
+    "izgorelost bolniška",
+    "rehabilitacija po izgorelosti",
+    "izgorelost simptomi"
+    "obrazna joga",
     "hormoni",
+    "pogovor",
 ]
 +++
 
