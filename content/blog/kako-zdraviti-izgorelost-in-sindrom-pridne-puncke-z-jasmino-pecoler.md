@@ -1,7 +1,7 @@
 +++
 author = "Jana Bergant"
 title = "Kako zdraviti izgorelost in sindrom pridne punčke: pogovor z Jasmino Pecoler"
-image = "img/novice/izgorelost-alenka-krstic.png"
+image = "img/novice/utrujenost-jasmina-pecoler.png"
 date = "2022-11-17"
 description = "Jasmnini so se najprej so se pojavila kronična utrujenost in bolečine v rokah. Njena pot zdravljenja izgorelosti je bila preko joge in s počasnim zdravljenjem sindroma pridne punčke. Po domače povedano, naučila se je uporabljati besedo NE."
 keywords = "utrujenost, izgorelost, kronična utrujenost, izgorelost na delovnem mestu, nenehna utrujenost, telesna izčrpanost, utrujenost in bolečine v mišicah, pridna punčka, joga, pogovor"
@@ -76,7 +76,7 @@ Sindrom pridne punčke je katastrofa.
 
 
 Pogovor si lahko ogledaš na yutube kanalu:
-<a href="https://www.youtube.com/watch?v=gfB7ls_ewnM" class="pogovorjasminapecoler youtube">Kako zdraviti izgorelost in sindrom pridne punčke z Jasmino Pecoler</a>
+<a href="https://youtu.be/VcWP1s52Q-0" class="pogovorjasminapecoler youtube">Kako zdraviti izgorelost in sindrom pridne punčke z Jasmino Pecoler</a>
 
 
 Alenko in obrazno jogo najdeš na [njeni strani za obrazno jogo](https://www.facebook.com/profile.php?id=100063538210772): 
