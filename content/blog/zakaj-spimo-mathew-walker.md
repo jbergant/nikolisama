@@ -1,13 +1,13 @@
 +++
 author = "Jana Bergant"
-title = "Iz izgorelosti s pomočjo starodavnih znanj: pogovor z Alenko Krstič"
-image = "img/novice/izgorelost-alenka-krstic.png"
-date = "2022-11-03"
-description = "Te dajejo znaki izgorelosti? Izgorelost - trenutek ko telo reče NE! Rehabilitacija po izgorelosti pa je dolga."
+title = "Zakaj spimo - Mathew Walker"
+image = "img/novice/ZakajSpimoMathewWalker.png"
+date = "2022-12-07"
+description = "Zakaj spimo - Pomambna sporočila in knjige dr. Mathew Walkerja. Spanje je eliksir življenja, zdravja, kreativnosti, lepote, mentalnega zdravja in čustvene stabilnosti."
 keywords = "zakaj spimo, zakaj spimo knjiga, spanje mathew walker, spanje, hipnoza za spanje"
 tags = [
     "knjige",
-    "zspanje"
+    "spanje"
 ]
 +++
 
