@@ -182,7 +182,7 @@ V REM fazi pogosto sanjamo
 #### Cikelj spanja
 NREM in REM fazi spanje se izmenjujeta skozi noč v 90-minutnih intervalih. 
 
-![Zakaj spimo Arhitektura spanja](/static/img/clanki/zakaj-spimo/zakaj-spimo-arhitektura-spanja.png)
+![Zakaj spimo Arhitektura spanja](/img/clanki/zakaj-spimo/zakaj-spimo-arhitektura-spanja.png)
 
 
 - Najbolj pomembna naloga NREM spanja je, da odstranjuje in prečiščuje nepotrebne nevrološke povezave. 
@@ -190,7 +190,7 @@ NREM in REM fazi spanje se izmenjujeta skozi noč v 90-minutnih intervalih.
 
 #### Kako možgani spijo
 
-![Zakaj spimo Možganski valovi v spanju in budnosti](/static/img/clanki/zakaj-spimo/zakaj-spimo-mozganski-valovi.png)
+![Zakaj spimo Možganski valovi v spanju in budnosti](/img/clanki/zakaj-spimo/zakaj-spimo-mozganski-valovi.png)
 
 1. Budnost je sprejemanje.
 2. NREM  spanje je refleksija.
@@ -286,12 +286,12 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
 
 ### Preveč ekstremno tudi za Guinnessovo knjigo svetovnih rekordov: pomanjkanje spanja in  možgani
 
-![Zakaj spimo Izguba spanja in poškodbe v športu](/static/img/clanki/zakaj-spimo/zakaj-spimo-izguba-spanja.png)
+![Zakaj spimo Izguba spanja in poškodbe v športu](/img/clanki/zakaj-spimo/zakaj-spimo-izguba-spanja.png)
 
 - Nesreč zaradi zaspanost, je več kot tistih, ki jih povzročajo alkohol in droge skupaj.
 - Po devetnajsturni budnosti, so bili ljudje, so bili posamezniki kognitivno enako ovirani kot tisti, ki so bili pijani.
  
-![Zakaj spimo Neprespanost in prometne nesreče](/static/img/clanki/zakaj-spimo/neprespanost-in-prometne-nesrece.png)
+![Zakaj spimo Neprespanost in prometne nesreče](/img/clanki/zakaj-spimo/neprespanost-in-prometne-nesrece.png)
 
 - Študenti, ki se pozno v noč učijo za teste imajo 40% primanjkljaj v zmožnosti pomnenja, v primerjavi s tistimi, ki spijo celo noč.
 - Bedenje je nizke ravni poškodba možganov, medtem ko je spanec nevrološko zdravljenje.
@@ -306,7 +306,7 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
 - Neučinkovit spanec je povezan z debelostjo.
 - **Kratek spanec povzroči, da telo izčrpa mišično maso in obdrži maščobo.**
  
-![Neprespanost in debelost](/static/img/clanki/zakaj-spimo/neprespanost-in-debelost.png)
+![Neprespanost in debelost](/img/clanki/zakaj-spimo/neprespanost-in-debelost.png)
 
 - Moški, ki trpijo za motnjami spanja (apneja spanja in snoring) imajo bistveno nižje ravni testosterona.
 - Vaš imunski odziv trpi že po eni noči slabega spanja.
@@ -412,7 +412,7 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
 - Posamezniki, ki uporabljajo zdravila za spanje na recept, imajo bistveno več možnosti, da umrejo ali za razvoj raka kot tisti, ki ne jemljejo zdravil.
  
 
-![Uspavalne tablete in smrt](/static/img/clanki/zakaj-spimo/uspavalne-tablete-smrt.png)
+![Uspavalne tablete in smrt](/img/clanki/zakaj-spimo/uspavalne-tablete-smrt.png)
  
  
 
@@ -438,7 +438,7 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
 - Študija v štirih velikih ameriških podjetjih je pokazala, da podjetja premalo spanja stane skoraj 2000 dolarjev na zaposlenega na leto zaradi izgube produktivnosti.
  
 
-![Ekonomija in nespečnost](/static/img/clanki/zakaj-spimo/ekonomija-nespecnost.png)
+![Ekonomija in nespečnost](/img/clanki/zakaj-spimo/ekonomija-nespecnost.png)
 
 - Pomanjkanje spanja večino držav oropa za več kot 2% BDP.
 - Kreativnost, inteligenca, motiviranost, trud, učinkovitost, uspešnost pri delu v skupinah ter čustvena stabilnost, družabnost in poštenost. Vse te stvari se s premalo spanja sistematično razgradijo.
@@ -479,4 +479,6 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
  
  
  
-
+{{% class testing %}}
+your content
+{{% /class %}}
