@@ -37,11 +37,11 @@ Prav tako slabše dela posameznikov razumni del možganov, prefrontalni korteks,
 
 In ja, večina prehranskih motenj izvira iz slabe uravnave čustev. Jemo, ko smo osamljeni. Jemo, ko smo žalostni, ko smo veseli in bi se nagradili. Jemo, ko nam je dolgčas, pred televizijo, ob slavjih, ob razočaranjih. 
 
-Kolikokrat ste v popularnih filmih videli žensko, ki je ravno se razšla z veliko ljubeznijo in jo potem kaže kako gre v hladilnik po veliko posodo sladoleda, zraven hlipa, posluša ljubezenske pesmi in poje celo banjo sladoleda.
+Kolikokrat ste v popularnih filmih videli žensko, ki je ravno se razšla z veliko ljubeznijo in jo potem kaže kako gre v hladilnik po veliko posodo sladoleda, zraven hlipa, posluša ljubezenske pesmi in poje celo banjo sladoleda?
 
-No, ko to vidiš večkrat, možgani povežejo, da je sladoled darilo za žalost. Ko pa to še samo storite, je krog sklenjen. Vas je zapustil, prevaral, razočaral? Nič hudega, banjca sladoleda b vse popravila.
+No, ko to vidiš večkrat, možgani povežejo, da je sladoled darilo za žalost. Ko pa to še samo storite, je krog sklenjen. Vas je zapustil, prevaral, razočaral? Nič hudega, banjca sladoleda bo vse popravila.
 
-Če pa zraven še ne spite, ker objokujete nesrečno ljubezen, se bo praktično nemogoč upreti še pškotom, mastnemu obroku makaronov s sirom, za po vrhu pa še eno obilno porcijo čokolade. Razumni del je oslabljen, in amigdala utripa kot novoletna jelka.
+Če pa zraven še ne spite, ker objokujete nesrečno ljubezen, se bo praktično nemogoč upreti še piškotom, mastnemu obroku makaronov s sirom, za po vrhu pa še eno obilno porcijo čokolade. Razumni del je oslabljen, in amigdala utripa kot novoletna jelka.
 
 ![Spanje in čustva](/img/clanki/spanje-hujsanje/spanje-in-custva.jpeg)
 
