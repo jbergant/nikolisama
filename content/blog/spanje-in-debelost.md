@@ -2,8 +2,8 @@
 author = "Jana Bergant"
 title = "Spanje in debelost"
 image = "img/clanki/spanje-hujsanje/zalost-debelost.jpeg"
-date = "2022-12-07"
-description = Spanje, debelost, čustva n diete. Neprespanost je lahko eden glavnih razlogov, da se vrtiš v krogu diet in hujšanja."
+date = "2022-12-09"
+description = "Spanje, debelost, čustva n diete. Neprespanost je lahko eden glavnih razlogov, da se vrtiš v krogu diet in hujšanja."
 keywords = "spanje, debelost, čustva, dieta, hujšanje, zdravo hujšanje"
 tags = [
     "hujšanje",
