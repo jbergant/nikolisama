@@ -479,6 +479,4 @@ Spanje je univerzalno. Vse živali, brez izjeme, spijo ali delajo nekaj spanju p
  
  
  
-{{% class testing %}}
-your content
-{{% /class %}}
+{{< attr class=".testing" >}}This is some paragraph text.{{< /attr >}}
