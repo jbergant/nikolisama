@@ -30,7 +30,7 @@ Raziskave so pokazale, da če spite od 4 do 5 ur na noč, se:
 - za 30% se poveča želja po težkih ogljikovih hidratih, kot so makaroni in pica, 
 - in za 45% se poveča želja po slanih prigrizkih.
 
-Raziskave prav tako kažejo, da oseba po neprespani niči poje od 250 do 400 kalorij več, kot na dan ko je naspana.
+Raziskave prav tako kažejo, da oseba po neprespani noči poje od 250 do 400 kalorij več, kot na dan ko je naspana.
 
 
 ![Spanje in debelost](/img/clanki/spanje-hujsanje/spanje-in-debelost.gif)
@@ -63,7 +63,7 @@ Razsikave so potrdile, da če spite manj kot 6 ur na dan, potem tudi če bi huj�
 
 ## Spanje in zdravo hujšanje
 
-Kakšen je torej recept za vidko linijo?
+Kakšen je torej recept za vitko linijo?
 Ultimativen recept za vidko linijo vsebuje:
 - 8 ur spanja, 
 - gibanje v naravi,
