@@ -16,7 +16,7 @@ Spanje in debelost
 
 
 
-# Če ne spiš, se rediš, v hladilnik greš, svoja čustva ješ.
+# Če ne spiš, se rediš. V hladilnik greš, svoja čustva ješ.
 
 Če manj spiš, potem porabiš več energije in si bolj suh. Se sliši logično, kajne?
 Žal pa ne bi moglo biti dalje od resnice. 
