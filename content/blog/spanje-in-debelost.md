@@ -69,8 +69,9 @@ Izpolni <a href="https://www.surveymonkey.com/r/8VN9DXG" class="surveyspanjehujs
 
 
 
-##Priporočeno branje
-{{< ref "/blog/zakaj-spimo-mathew-walker.md" >}}
+## Priporočeno branje
+<a href="https://www.nikolisama.si/blog/zakaj-spimo-mathew-walker/" class="surveyspanjehujsanje">Zakaj spimo - pomembna sporočila iz knjige dr. Mathew Walkerja</a>
+
 
 
 
