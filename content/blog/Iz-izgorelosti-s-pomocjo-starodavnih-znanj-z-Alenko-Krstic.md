@@ -10,10 +10,10 @@ tags = [
     "zdravljenje izgorelosti",
     "izgorelost bolniška",
     "rehabilitacija po izgorelosti",
-    "izgorelost simptomi"
+    "izgorelost simptomi",
     "obrazna joga",
     "hormoni",
-    "pogovor",
+    "pogovor"
 ]
 +++
 

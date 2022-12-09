@@ -10,7 +10,7 @@ tags = [
     "izgorelost",
     "kronična utrujenost",
     "izgorelost na delovnem mestu",
-    "nenehna utrujenost"
+    "nenehna utrujenost",
     "telesna izčrpanost",
     "utrujenost in bolečine v mišicah",
     "pridna punčka",
