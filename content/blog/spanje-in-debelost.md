@@ -23,7 +23,9 @@ Spanje in debelost
 
 ## Spanje in debelost
 
-Ko premalo spiš, hormoni (leptin in ghrelin), ki uravnavajo apetit podivjajo in v tebi se zbudi želje po nezdravi hrani, po mastni, slani, sladki hrani. Raziskave so pokazale, da če spite od 4 do 5 ur na noč, se želja po sladki hrani poveča za 33%, za 30% se poveča želja po težkih ogljikovih hidratih, kot so makaroni in pica, in za 45% se poveča želja po slanih prigrizkih.
+Ko premalo spiš, hormoni (leptin in ghrelin), ki uravnavajo apetit podivjajo in v tebi se zbudi želje po nezdravi hrani, po mastni, slani, sladki hrani. 
+
+Raziskave so pokazale, da če spite od 4 do 5 ur na noč, se želja po sladki hrani poveča za 33%, za 30% se poveča želja po težkih ogljikovih hidratih, kot so makaroni in pica, in za 45% se poveča želja po slanih prigrizkih.
 Raziskave prav tako kažejo, da oseba po neprespani niči poje od 250 do 400 kalorij več, kot na dan ko je naspana.
 
 
@@ -31,7 +33,7 @@ Raziskave prav tako kažejo, da oseba po neprespani niči poje od 250 do 400 kal
 
 ## Spanje in čustva
 
-Poleg tega pomankanje spanja oslabi čustveno stabilnost. Neprespana oseba postane bolj razražljiva, bolj je nagnjena k čustvenim ekstremom. Amigdala, plazilski del možganov, uravnava pozitivna in negativna čustva, ki jih posameznik doživlja. Pri posameznikih, ki premalos spijo podivja hedonističen center v amigdali in se bolj odziva na bolj zasvoljivo in nezdravo hrano. 
+Poleg tega pomankanje spanja oslabi čustveno stabilnost. Neprespana oseba postane bolj razražljiva, bolj je nagnjena k čustvenim ekstremom. Amigdala, plazilski del možganov, uravnava pozitivna in negativna čustva, ki jih posameznik doživlja. Pri posameznikih, ki premalo spijo podivja hedonističen center v amigdali in se bolj odziva na bolj zasvojljivo in nezdravo hrano. 
 
 Prav tako slabše dela posameznikov razumni del možganov, prefrontalni korteks, zato vas tudi razumni del možganov ne ustavi, ko posežete po nezdravi hrani.
 
@@ -47,7 +49,7 @@ No, ko to vidiš večkrat, možgani povežejo, da je sladoled darilo za žalost.
 
 ## Spanje in dieta
 
-No, pa recimo, da ste se odločili, da boste enkrat za vselej shujšali in se odločite za dieto. Ko je telo na dieti, sploh če je prehuda, se v njem ponovno zbudi reptilski del, ki pravi pomankanje hrani, ostani budna, da si boš ujela obrok hrane. Posledično ne spite. In seveda tudi hujšate.
+No, pa recimo, da ste se odločili, da boste enkrat za vselej shujšali in se odločite za dieto. Ko je telo na dieti, sploh če je prehuda, se v njem ponovno zbudi reptilski del, ki pravi: "pomankanje hrani, ostani budna, da si boš ujela obrok hrane". Posledično vam telo ne pusti spati. In seveda tudi hujšate.
 
 Ampak pozor!
 
