@@ -25,7 +25,11 @@ Spanje in debelost
 
 Ko premalo spiš, hormoni (leptin in ghrelin), ki uravnavajo apetit podivjajo in v tebi se zbudi želje po nezdravi hrani, po mastni, slani, sladki hrani. 
 
-Raziskave so pokazale, da če spite od 4 do 5 ur na noč, se želja po sladki hrani poveča za 33%, za 30% se poveča želja po težkih ogljikovih hidratih, kot so makaroni in pica, in za 45% se poveča želja po slanih prigrizkih.
+Raziskave so pokazale, da če spite od 4 do 5 ur na noč, se:
+- želja po sladki hrani poveča za 33%, 
+- za 30% se poveča želja po težkih ogljikovih hidratih, kot so makaroni in pica, 
+- in za 45% se poveča želja po slanih prigrizkih.
+
 Raziskave prav tako kažejo, da oseba po neprespani niči poje od 250 do 400 kalorij več, kot na dan ko je naspana.
 
 
