@@ -65,11 +65,11 @@ Razsikave so potrdile, da če spite manj kot 6 ur na dan, potem tudi če bi huj�
 
 Kakšen je torej recept za vidko linijo?
 Ultimativen recept za vidko linijo vsebuje:
-- 8 ur spanja 
-- Gibanje v naravi
-- Čustvena stabilnost in sprejemanje svojih čustev
-- Pristni odnosi
-- Veselje do življenja
+- 8 ur spanja, 
+- gibanje v naravi
+- čustveno stabilnost in sprejemanje svojih čustev,
+- pristne odnose in
+- veselje do življenja.s
 
 ![Spanje in zdravo hujšanje](/img/clanki/spanje-hujsanje/spanje-zdravo-hujsanje.jpeg)
 
