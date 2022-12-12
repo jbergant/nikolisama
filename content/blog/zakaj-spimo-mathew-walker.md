@@ -14,9 +14,6 @@ tags = [
 Zakaj spimo - Mathew Walker 
 
 
-
-{{< youtube GY9a7EuOzfk >}}
-
 # O spanju - Pomembna sporočila iz knjge Zakaj spimo dr. Mathew Walkerja
 Živjo, danes bi rada s tabo govorila o spanju. Ne vem, če si že slišala za knjigo Zakaj spimo od doktor Matthew Walkerja. Zanj sem prvič slišala približno dve leti nazaj, ko sem gledala njegov tečaj na masterclassu. Bil je fenomenalen. 
 
@@ -90,6 +87,10 @@ Bolj podroben povzetek knjige si lahko preberete na spodnji povezavi.
 Obstajajo pa seveda tudi rešitve. Eno od njih omeni tudi Mathew v knjigi. Je ena najboljših in jo uporabljam tudi sama pri svojem delu. Zraven pa vlkjučujem še hipnozo, ki hitreje pomaga tvoji podzavesti, da najde rešitve. Ja, podzavest ni tvoj sovražnik, je na tvoji strani in ti želi pomagat.
 
 Spodaj bom objavila tudi vprašalnik, o spanju. Čisto neobvezujoč. Je moja raziskava, zgolj zame. Prosila bi te, da ga izpolniš. Ne vzame ti več kot tri minute. 
+
+Izpolni <a href="https://www.surveymonkey.com/r/XZ95PDD" class="surveyspanje">kratek vprašalnik</a> in dobi koristne informacije, ki ti bodo pomagale pri spanju. Za nagrado pa dobiš posnetek hipnoze za boljše spanje.
+
+{{< youtube GY9a7EuOzfk >}}
 
 
 # Zakaj spimo - Mathew Walker 
