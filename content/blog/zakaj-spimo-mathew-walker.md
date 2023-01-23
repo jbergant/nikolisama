@@ -17,7 +17,7 @@ Zakaj spimo - Mathew Walker
 # O spanju - Pomembna sporočila iz knjge Zakaj spimo dr. Mathew Walkerja
 Živjo, danes bi rada s tabo govorila o spanju. Ne vem, če si že slišala za knjigo Zakaj spimo od doktor Matthew Walkerja. Zanj sem prvič slišala približno dve leti nazaj, ko sem gledala njegov tečaj na masterclassu. Bil je fenomenalen. 
 
-Dve leti nazaj sem se soočala s hudo nespočnostjo, ki je bila posledica dolgotrajnega stresa. Res je bilo težko obdobje za mano in posledično sem se ure in ure obračala, medtem ko so moji možgani procesirali in procesirali.
+Dve leti nazaj sem se soočala s hudo nespečnostjo, ki je bila posledica dolgotrajnega stresa. Res je bilo težko obdobje za mano in posledično sem se ure in ure obračala, medtem ko so moji možgani procesirali in procesirali.
 A ni grozno, ko si utrujen, pa ne moreš n ne moreš zaspat. Vrtiš se, hodiš na wc, toliko da se nisem začela še z glavo zaletavat v zid.
 
 Naslednji dan pa kot v megli. Možgani mi niso delali, nisem se mogla zbrat, nagajal mi je spomin, pa bila sem veliko bolj nepotrpežljiva kot bi si želela. 
